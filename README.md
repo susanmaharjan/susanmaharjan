@@ -1,7 +1,7 @@
 ### Hello World!!  👋 Welcome to Su-sun's World.
 
 <br/>
-### Contact me here:
+Open doors to Su-sun's World:
 <br/>
 
 <a href="https://www.linkedin.com/in/susan-maharjan-b63417161/">
