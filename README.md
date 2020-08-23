@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Su-sun's github stats](https://github-readme-stats.vercel.app/api?username=susanmaharjan)](https://github.com/susanmaharjan/github-readme-stats)
 <!--
 **susanmaharjan/susanmaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
