@@ -2,6 +2,7 @@
 
 <br/>
 ### Contact me here:
+<br/>
 
 <a href="https://www.linkedin.com/in/susan-maharjan-b63417161/">
   <img align="left" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
