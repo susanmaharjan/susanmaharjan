@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Big Data and Digital Forensics.
 - 💬 Ask me about my anything. I will always be there to help with anything I can.
 - 😄 Pronouns: he/him
-- ⚡ 
-- 📝Resume
+- ⚡ My Quote: "Take an extra step every day to be a better person than you were yesterday."
+- 📝Resume in progress
 #### Connect through: <a href="https://www.linkedin.com/in/susan-maharjan-b63417161/">
   <img align="left" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a> 
